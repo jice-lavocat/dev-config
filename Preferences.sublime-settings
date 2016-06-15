@@ -58,7 +58,7 @@
 			80,
 			120
 	],
-	"save_on_focus_lost": true,
+	"save_on_focus_lost": false,
 	"scroll_past_end": false,
 	"show_full_path": true,
 	"show_minimap": false,
